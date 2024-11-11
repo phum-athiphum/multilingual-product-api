@@ -32,6 +32,9 @@
 $ npm install
 ```
 
+# copy env file
+cp .env.example .env
+
 ## Running the app
 
 ```bash
